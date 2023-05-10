@@ -16,9 +16,13 @@ There's a misterious word (it's generated authomatic or the user can change it m
 -SASS
 -REACT
 
-##Stauts:
+## Stauts:
 
  ![Badge completed](https://img.shields.io/badge/STATUS-%20COMPELTED-green)
+ 
+ ## Authors: 
+ Cristina Faixedas
+ Francesca Bentín
  
 ## Access
 
